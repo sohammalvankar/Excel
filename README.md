@@ -16,4 +16,5 @@ Skills:
 
 # Contact
 
-https://www.linkedin.com/in/soham-malvankar-948b7374/
+![linkedin logo](https://user-images.githubusercontent.com/131285676/233141047-a0e4a1ee-b9b3-4d39-bbfc-29551f71ffc0.png)
+ https://www.linkedin.com/in/soham-malvankar-948b7374/
